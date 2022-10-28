@@ -23,5 +23,10 @@ namespace CustomerManagementApp
             this.customerTableAdapter.Fill(this.cUSTOMERDataSet.Customer);
 
         }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
