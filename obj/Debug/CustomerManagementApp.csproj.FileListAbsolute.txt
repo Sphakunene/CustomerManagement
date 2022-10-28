@@ -1,0 +1,11 @@
+C:\Users\Geeks4Learning\OneDrive\Desktop\Mpilo\CustomerManagementApp\bin\Debug\CustomerManagementApp.exe.config
+C:\Users\Geeks4Learning\OneDrive\Desktop\Mpilo\CustomerManagementApp\bin\Debug\CustomerManagementApp.exe
+C:\Users\Geeks4Learning\OneDrive\Desktop\Mpilo\CustomerManagementApp\bin\Debug\CustomerManagementApp.pdb
+C:\Users\Geeks4Learning\OneDrive\Desktop\Mpilo\CustomerManagementApp\obj\Debug\CustomerManagementApp.csproj.AssemblyReference.cache
+C:\Users\Geeks4Learning\OneDrive\Desktop\Mpilo\CustomerManagementApp\obj\Debug\CustomerManagementApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Geeks4Learning\OneDrive\Desktop\Mpilo\CustomerManagementApp\obj\Debug\CustomerManagementApp.Form1.resources
+C:\Users\Geeks4Learning\OneDrive\Desktop\Mpilo\CustomerManagementApp\obj\Debug\CustomerManagementApp.Properties.Resources.resources
+C:\Users\Geeks4Learning\OneDrive\Desktop\Mpilo\CustomerManagementApp\obj\Debug\CustomerManagementApp.csproj.GenerateResource.cache
+C:\Users\Geeks4Learning\OneDrive\Desktop\Mpilo\CustomerManagementApp\obj\Debug\CustomerManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\Geeks4Learning\OneDrive\Desktop\Mpilo\CustomerManagementApp\obj\Debug\CustomerManagementApp.exe
+C:\Users\Geeks4Learning\OneDrive\Desktop\Mpilo\CustomerManagementApp\obj\Debug\CustomerManagementApp.pdb
